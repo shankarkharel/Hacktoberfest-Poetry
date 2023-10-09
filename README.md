@@ -39,6 +39,16 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 
   ![Propose Change](https://github.com/rojantiwari/Hacktoberfest-Poetry/assets/66507426/e3bb6bb8-f3de-439f-989c-1eb5193305d6)
 
+  
+## Rewards
+For making four or more valid pull requests during October, you'll receive:
+
+  - An exclusive Hacktoberfest T-shirt (provided you've registered on the Hacktoberfest website).
+
+  - Swag and rewards offered by some participating companies.
+
+
+
     
 
 

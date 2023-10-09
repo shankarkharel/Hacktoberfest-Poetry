@@ -1,4 +1,20 @@
+<div align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+            <img src="https://img.shields.io/badge/Hactoberfest-2023-blue"></img>
+</a>
+    <a href="">
+            <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></img>
+        </a>   
+    
+</div>
 
+<div align="center">
+  <sub>Built with ❤︎ by
+  <a href="https://www.facebook.com/DesVuTechnologies">Dès Vu</a> and
+  <a href="https://hacktoberfestnepal2023.vercel.app/">
+    contributors
+  </a>
+</div>
 ## Beginner's Guide to Hacktoberfest
 
 Welcome to Hacktoberfest, a month-long celebration of open source software! This guide will help you get started and make your contributions count.

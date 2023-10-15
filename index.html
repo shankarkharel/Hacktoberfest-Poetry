@@ -21,6 +21,22 @@
         tr:nth-child(even) {
           background-color: #dddddd;
         }
+
+        body {
+    font-family: Arial, sans-serif;
+    transition: background-color 0.5s, color 0.5s;
+    }
+
+    .light-mode {
+        background-color: white;
+        color: black;
+    }
+
+    .dark-mode {
+        background-color: black;
+        color: rgb(123, 119, 119);
+        
+    }
         </style>
 </head>
 
@@ -28,6 +44,9 @@
     <header>
         <h1>Hacktoberfest Contributors</h1>
     </header>
+
+    <button id="dark-mode-toggle">Dark Mode</button>
+    <script src="script.js"></script>
 
     <main>
         <section>
@@ -58,6 +77,43 @@
                 <td>Laxmi Parsad Devkota</td>
                 <td>Muna Madan</td>
             </tr>
+            <tr>
+                <td>Bhanu Bhakta Acharya</td>
+                <td>Ghansi</td>
+            </tr>
+            <tr>
+                <td> Laximi Parsad Devkota</td>
+                <td>XYZ</td>
+            </tr>
+            <tr>
+                <td> Kali Parsad rimal</td>
+                <td>koseli</td>
+            </tr>
+
+            <tr>
+                <td>Test-01</td>
+                <td>Hello-Test</td>
+            </tr>
+            <tr>
+                <td>Gulzar</td>
+                <td>Raat Pashmine Ki</td>
+            </tr>
+
+            <tr>
+                <td>Nabin Kandel</td>
+                <td>Dummy-Poem</td>
+            </tr>
+
+            
+
+            <tr>
+                <td> Siddhicharan Shrestha</td>
+                <td>Baa Aaunu Bhayeko Chhaina</td>
+            </tr>
+            <tr>
+                <td>Sanket Karki</td>
+                <td>console.log("Sundar Shanta Nepal")</td>
+            </tr>
 
         </table>
         </section>
@@ -66,6 +122,24 @@
     <footer>
         <p>&copy; 2023 Dès vu</p>
     </footer>
+
+
+    <script>
+
+        // Function to toggle between dark and light mode
+function toggleDarkMode() {
+    const body = document.body;
+    body.classList.toggle('dark-mode');
+    body.classList.toggle('light-mode');
+}
+
+// Get the dark mode toggle button
+const darkModeToggle = document.getElementById('dark-mode-toggle');
+
+// Add a click event listener to the button
+darkModeToggle.addEventListener('click', toggleDarkMode);
+
+    </script>
 </body>
 
 </html>

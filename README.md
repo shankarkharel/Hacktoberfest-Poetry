@@ -1,4 +1,21 @@
+<div align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+            <img src="https://img.shields.io/badge/Hactoberfest-2023-blue"></img>
+</a>
+    <a href="">
+            <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></img>
+        </a>   
+    
+</div>
 
+<div align="center">
+  <sub>Built with ❤︎ by
+  <a href="https://www.facebook.com/DesVuTechnologies">Dès Vu</a> and
+  <a href="https://hacktoberfestnepal2023.vercel.app/">
+    contributors
+  </a>
+</div>
+      
 ## Beginner's Guide to Hacktoberfest
 
 Welcome to Hacktoberfest, a month-long celebration of open source software! This guide will help you get started and make your contributions count.
@@ -43,9 +60,18 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 ## Rewards
 For making four or more valid pull requests during October, you'll receive:
 
-  - An exclusive Hacktoberfest T-shirt (provided you've registered on the Hacktoberfest website).
+- Aside from the knowledge you’ll gain, (and the fun you’ll have) you can earn a digital reward kit courtesy of DigitalOcean and our sponsors and partners. You’ll receive your digital reward once you’ve completed four accepted pull/merge requests. Also, the first 50,000 participants to have their first PR/MR accepted will have a tree planted in their name through Tree Nation.
 
-  - Swag and rewards offered by some participating companies.
+- ### Submit Quality Pull Requests
+
+1. [Fork the Des Vu Technologies Hacktoberfest TodoApp repository.](https://github.com/Des-Vu-Technologies/TodoApp)
+2. Clone the forked repository to your local machine.
+3. Create high-quality, meaningful PRs related to the project's goals.
+4. Make sure your PRs are original and not copied from other sources.
+5. Ensure your PRs follow the repository's contribution guidelines.
+6. Maintain open communication with the repository maintainers for any necessary updates or changes.
+
+At the end of the event, the student who has contributed the highest number of successful and original PRs to this repository that is displayed [here](https://hacktoberfestnepal2023.vercel.app/) will be eligible for our awesome rewards.
 
 
 
